@@ -21,9 +21,8 @@ This app can be used in Android mobile phones.
 Furniqo App images with short video
 -  Splash Screen, Login, and Register 
 ![g1](https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/635adab9-fb52-4b88-b1e6-7a718deec189)
-https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/acbe210a-acc0-4b33-ae3e-d49c04cf6184
 
-
+https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/6b7acb0e-64f3-4348-ac48-24e7fd7c4a75
 
 
 
