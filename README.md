@@ -27,7 +27,7 @@ Furniqo App images with short video
 -  Splash Screen, Login, and Register 
 ![g1](https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/635adab9-fb52-4b88-b1e6-7a718deec189)
 
-https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/6b7acb0e-64f3-4348-ac48-24e7fd7c4a75
+https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/2350c028-33c9-48eb-a2b4-128202f30df6
 
 - Home Page
   
