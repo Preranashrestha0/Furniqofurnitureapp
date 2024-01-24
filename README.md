@@ -15,6 +15,9 @@ In this furiqo app, Users can easily use this app for purchasing and selling fur
 ### Storage
 - Firebase Cloud Storage
 
+## Installation
+### CLone the repository
+### Install dependencies
 ## Demo
 This app can be used in Android mobile phones.
 
