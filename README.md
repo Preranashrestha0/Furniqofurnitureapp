@@ -52,11 +52,13 @@ https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/c84e10bd
 https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/3277884e-3fbd-4bac-8944-85d8ff8257c8
 
 -Notification Screen
+
 The notifications are shown when a customer confirms or cancels the respective orders.
 
 ![g7](https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/b124e17f-af28-4d83-b554-cca5ac5ac09c)
 
 - Order History
+  
 Users can view and cancel their orders.
 
 ![Screenshot 2024-01-24 200757](https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/0bce888b-a143-4187-b154-51814209dc6d)
