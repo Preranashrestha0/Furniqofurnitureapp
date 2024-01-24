@@ -19,8 +19,11 @@ In this furiqo app, Users can easily use this app for purchasing and selling fur
 This app can be used in Android mobile phones.
 
 Furniqo App images with short video
-- Login, Register and Splash Screen
+-  Splash Screen, Login, and Register 
 ![g1](https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/635adab9-fb52-4b88-b1e6-7a718deec189)
+https://github.com/Preranashrestha0/Furniqofurnitureapp/assets/99173321/acbe210a-acc0-4b33-ae3e-d49c04cf6184
+
+
 
 
 
