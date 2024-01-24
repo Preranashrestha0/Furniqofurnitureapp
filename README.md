@@ -17,7 +17,9 @@ In this furiqo app, Users can easily use this app for purchasing and selling fur
 
 ## Installation
 ### CLone the repository
+- https://github.com/Preranashrestha0/Furniqofurniture.git
 ### Install dependencies
+- flutter pub get
 ## Demo
 This app can be used in Android mobile phones.
 
